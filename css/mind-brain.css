@@ -31,4 +31,8 @@ body{
     height: 40vh;
     border-top-left-radius: 9px;
     border-top-right-radius: 9px;
+}@media screen and (min-width: 992px){
+    .img-on-top{
+        height: 60vh;
+    }
 }
